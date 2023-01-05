@@ -1,0 +1,15 @@
+C:\projects\ProgramLargest\obj\Debug\net7.0\ProgramLargest.csproj.AssemblyReference.cache
+C:\projects\ProgramLargest\obj\Debug\net7.0\ProgramLargest.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ProgramLargest\obj\Debug\net7.0\ProgramLargest.AssemblyInfoInputs.cache
+C:\projects\ProgramLargest\obj\Debug\net7.0\ProgramLargest.AssemblyInfo.cs
+C:\projects\ProgramLargest\obj\Debug\net7.0\ProgramLargest.csproj.CoreCompileInputs.cache
+C:\projects\ProgramLargest\bin\Debug\net7.0\ProgramLargest.exe
+C:\projects\ProgramLargest\bin\Debug\net7.0\ProgramLargest.deps.json
+C:\projects\ProgramLargest\bin\Debug\net7.0\ProgramLargest.runtimeconfig.json
+C:\projects\ProgramLargest\bin\Debug\net7.0\ProgramLargest.dll
+C:\projects\ProgramLargest\bin\Debug\net7.0\ProgramLargest.pdb
+C:\projects\ProgramLargest\obj\Debug\net7.0\ProgramLargest.dll
+C:\projects\ProgramLargest\obj\Debug\net7.0\refint\ProgramLargest.dll
+C:\projects\ProgramLargest\obj\Debug\net7.0\ProgramLargest.pdb
+C:\projects\ProgramLargest\obj\Debug\net7.0\ProgramLargest.genruntimeconfig.cache
+C:\projects\ProgramLargest\obj\Debug\net7.0\ref\ProgramLargest.dll
